@@ -1,11 +1,28 @@
-Analyse des ventes avec Power BI — Projet personnel
+# Sales Analysis Dashboard — Power BI
 
-Préparation et nettoyage des données avec Power Query.
+## Présentation du projet
+Ce mini-projet académique, réalisé dans le cadre du Master Mathématiques-Informatique, parcours Data Science, consiste à analyser les ventes à l'aide de Microsoft Power BI.
 
-Création d’indicateurs KPI et de mesures DAX : chiffre d’affaires et bénéfice total.
+## Objectifs
+- Analyser le chiffre d'affaires et le bénéfice total.
+- Comparer les performances des catégories de produits.
+- Étudier les ventes par région.
+- Observer l'évolution mensuelle du chiffre d'affaires.
 
-Réalisation de visualisations pour analyser les ventes par catégorie, région et mois.
+## Outils utilisés
+- Power BI Desktop
+- Power Query
+- DAX
+- CSV
 
-Identification des catégories et régions les plus performantes à partir des données.
+## Étapes réalisées
+1. Importation et vérification des données.
+2. Préparation des données avec Power Query.
+3. Création de mesures DAX pour calculer le chiffre d'affaires et le bénéfice total.
+4. Création de visualisations pour analyser les ventes.
 
-Outils : Power BI Desktop, Power Query, DAX, Excel/CSV.
+## Résultats
+L'analyse permet d'identifier les catégories de produits et les régions qui génèrent le chiffre d'affaires le plus élevé, ainsi que les variations mensuelles des ventes.
+
+## Données
+Le projet utilise un jeu de données fictif à des fins pédagogiques.

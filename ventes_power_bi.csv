@@ -1,0 +1,31 @@
+﻿Date,Produit,Categorie,Region,Quantite,Prix_unitaire,Cout_unitaire
+2026-01-05,PC portable,Informatique,Tunis,2,2500,2100
+2026-01-08,Souris,Accessoires,Sousse,10,35,20
+2026-01-12,Écran,Informatique,Sfax,3,450,330
+2026-01-15,Clavier,Accessoires,Tunis,5,80,48
+2026-01-21,Imprimante,Bureautique,Nabeul,2,620,490
+2026-02-02,PC portable,Informatique,Sfax,1,2600,2150
+2026-02-06,Casque,Accessoires,Tunis,8,120,72
+2026-02-11,Écran,Informatique,Sousse,4,430,320
+2026-02-18,Clavier,Accessoires,Nabeul,7,75,45
+2026-02-25,Imprimante,Bureautique,Tunis,3,600,470
+2026-03-03,PC portable,Informatique,Tunis,2,2550,2120
+2026-03-07,Souris,Accessoires,Sfax,15,32,18
+2026-03-13,Casque,Accessoires,Sousse,6,125,76
+2026-03-19,Écran,Informatique,Nabeul,2,460,340
+2026-03-27,Imprimante,Bureautique,Sfax,1,640,505
+2026-04-04,Clavier,Accessoires,Sousse,9,78,46
+2026-04-09,PC portable,Informatique,Nabeul,1,2480,2080
+2026-04-14,Souris,Accessoires,Tunis,12,34,19
+2026-04-20,Écran,Informatique,Tunis,3,445,325
+2026-04-26,Imprimante,Bureautique,Sousse,2,610,480
+2026-05-02,Casque,Accessoires,Sfax,10,118,70
+2026-05-08,PC portable,Informatique,Sousse,2,2520,2120
+2026-05-16,Clavier,Accessoires,Tunis,6,82,50
+2026-05-24,Écran,Informatique,Sfax,4,455,335
+2026-06-01,Imprimante,Bureautique,Nabeul,2,630,500
+2026-06-07,Souris,Accessoires,Sousse,20,33,19
+2026-06-12,PC portable,Informatique,Sfax,1,2580,2180
+2026-06-18,Casque,Accessoires,Tunis,7,122,73
+2026-06-23,Écran,Informatique,Nabeul,2,440,325
+2026-06-28,Clavier,Accessoires,Sfax,8,79,47

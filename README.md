@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard — Power BI
 
 ## Présentation du projet
-Ce mini-projet académique, réalisé dans le cadre du Master Mathématiques-Informatique, parcours Data Science, consiste à analyser les ventes à l'aide de Microsoft Power BI.
+Ce mini-projet académique, réalisé dans le cadre du Master Data Science, consiste à analyser les ventes à l'aide de Microsoft Power BI.
 
 ## Objectifs
 - Analyser le chiffre d'affaires et le bénéfice total.
